@@ -1,5 +1,5 @@
 import e from "express";
-import generarId from "../helpers/generarID.js";
+import generarId from "../helpers/generarId.js";
 import generarJWT from "../helpers/generarJWT.js";
 import Veterinario from "../models/Veterinario.js";
 import emailRegistro from "../helpers/emailRegistro.js";
